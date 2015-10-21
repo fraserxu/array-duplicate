@@ -1,0 +1,32 @@
+{
+  "name": "array-duplicate",
+  "version": "1.0.0",
+  "description": "Find duplicate item from two array",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraserxu/array-duplicate.git"
+  },
+  "keywords": [
+    "utility",
+    "array",
+    "duplicate"
+  ],
+  "author": "Fraser Xu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fraserxu/array-duplicate/issues"
+  },
+  "homepage": "https://github.com/fraserxu/array-duplicate#readme",
+  "dependencies": {
+    "indexof": "0.0.1"
+  },
+  "devDependencies": {
+    "lodash.isequal": "^3.0.4",
+    "standard": "^5.3.1",
+    "tape": "^4.2.2"
+  }
+}
