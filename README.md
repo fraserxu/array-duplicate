@@ -17,9 +17,9 @@ $ npm install array-duplicate
 ## Usage
 
 ```JavaScript
-var array1 = [1, 2, 3];
-var array2 = [2, 3, 4];
-duplicated(array1, array2); // yeilds [2, 3]
+var array1 = [1, 2, 3]
+var array2 = [2, 3, 4]
+duplicated(array1, array2) // yeilds [2, 3]
 ```
 
 ## License
